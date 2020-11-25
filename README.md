@@ -11,6 +11,8 @@ End-to-end Autonomous Vehicle Framework using yaw information.
   
 You can download the CARLA simulator from here ([benchmark]).
 
+<img src="https://github.com/kimna4/carla_yaw/blob/main/carla.png" width="90%"></img>
+
 # Kinematic Vehicle Equation
 
 We utilize the bicycle model form kinematic vehicle dynamics.
