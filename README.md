@@ -9,7 +9,7 @@ End-to-end Autonomous Vehicle Framework using yaw information.
   - Torchvision 0.2
   - CARLA 0.8.2
   
-You can download the CARLA simulator from here ([benchmark]).
+You can download the CARLA simulator from here ([benchmark])
 
 <img src="https://github.com/kimna4/carla_yaw/blob/main/carla.png" width="90%"></img>
 
